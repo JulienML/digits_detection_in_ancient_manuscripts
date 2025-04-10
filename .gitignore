@@ -1,0 +1,12 @@
+# Datasets
+/datasets/
+
+# YOLO
+test_with_yolo/runs/
+test_with_yolo/train/
+test_with_yolo/train.cache
+test_with_yolo/val/
+test_with_yolo/val.cache
+test_with_yolo/DIDA.yaml
+
+# Tesseract OCR
