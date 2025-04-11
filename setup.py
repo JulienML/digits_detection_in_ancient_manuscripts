@@ -2,7 +2,7 @@ import gdown
 import os
 import patoolib
 
-# Create the test directory if it doesn't exist
+# Create the datasets directory if it doesn't exist
 if not os.path.exists("./datasets"):
     os.makedirs("./datasets")
 
