@@ -9,4 +9,5 @@ test_with_yolo/val/
 test_with_yolo/val.cache
 test_with_yolo/DIDA.yaml
 
-# Tesseract OCR
+# MNIST database
+test_with_keras_ocr_and_cnn/mnist-original.mat
